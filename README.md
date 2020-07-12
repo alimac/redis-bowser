@@ -1,24 +1,9 @@
-# README
+# redis-bowser
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Bowser](https://clipartspub.com/images/mario-clipart-bowser-3.jpg)
 
-Things you may want to cover:
+Playing around with redis, resque, and redis-browser gem.
 
-* Ruby version
+## Standalone
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Engine
